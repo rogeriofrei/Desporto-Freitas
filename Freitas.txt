@@ -1,0 +1,418 @@
+
+
+#EXTM3U
+#EXTINF:-1,PT: A BOLA TV
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780254
+#EXTINF:-1,PT: BENFICA TV
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780260
+#EXTINF:-1,PT: BENFICA TV(opcao 2)
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780261
+#EXTINF:-1,PT: BENFICA TV(opcao 3)
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780262
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780280
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780281
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780282
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780283
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780284
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780285
+#EXTINF:-1,PT: EUROSPORT
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780286
+#EXTINF:-1,PT: EUROSPORT 2
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780287
+#EXTINF:-1,PT: SPORT TV 1
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780328
+#EXTINF:-1,PT: SPORT TV 1(opcao 2)
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780329
+#EXTINF:-1,PT: SPORT TV 1(opcao 3)
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780330
+#EXTINF:-1,PT: SPORT TV 2
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780331
+#EXTINF:-1,PT: SPORT TV 2(opcao 2)
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780332
+#EXTINF:-1,PT: SPORT TV 3
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780333
+#EXTINF:-1,PT: SPORT TV 4
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780334
+#EXTINF:-1,PT: SPORT TV 5
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780335
+#EXTINF:-1,PT: Sport TV 6
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780336
+#EXTINF:-1,PT: SPORT TV+
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780337
+#EXTINF:-1,PT: SPORTING  TV
+http://likea8bitboss.xyz:80/OdinBeards/6135840792/780338
+#EXTINF:-1,PT: A BOLA TV
+http://likea8bitboss.xyz:80/Spaha/8153940672/780254
+#EXTINF:-1,PT: BENFICA TV
+http://likea8bitboss.xyz:80/Spaha/8153940672/780260
+#EXTINF:-1,PT: BENFICA TV(opcao 2)
+http://likea8bitboss.xyz:80/Spaha/8153940672/780261
+#EXTINF:-1,PT: BENFICA TV(opcao 3)
+http://likea8bitboss.xyz:80/Spaha/8153940672/780262
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://likea8bitboss.xyz:80/Spaha/8153940672/780280
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://likea8bitboss.xyz:80/Spaha/8153940672/780281
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://likea8bitboss.xyz:80/Spaha/8153940672/780282
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://likea8bitboss.xyz:80/Spaha/8153940672/780283
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://likea8bitboss.xyz:80/Spaha/8153940672/780284
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://likea8bitboss.xyz:80/Spaha/8153940672/780285
+#EXTINF:-1,PT: EUROSPORT
+http://likea8bitboss.xyz:80/Spaha/8153940672/780286
+#EXTINF:-1,PT: EUROSPORT 2
+http://likea8bitboss.xyz:80/Spaha/8153940672/780287
+#EXTINF:-1,PT: SPORT TV 1
+http://likea8bitboss.xyz:80/Spaha/8153940672/780328
+#EXTINF:-1,PT: SPORT TV 1(opcao 2)
+http://likea8bitboss.xyz:80/Spaha/8153940672/780329
+#EXTINF:-1,PT: SPORT TV 1(opcao 3)
+http://likea8bitboss.xyz:80/Spaha/8153940672/780330
+#EXTINF:-1,PT: SPORT TV 2
+http://likea8bitboss.xyz:80/Spaha/8153940672/780331
+#EXTINF:-1,PT: SPORT TV 2(opcao 2)
+http://likea8bitboss.xyz:80/Spaha/8153940672/780332
+#EXTINF:-1,PT: SPORT TV 3
+http://likea8bitboss.xyz:80/Spaha/8153940672/780333
+#EXTINF:-1,PT: SPORT TV 4
+http://likea8bitboss.xyz:80/Spaha/8153940672/780334
+#EXTINF:-1,PT: SPORT TV 5
+http://likea8bitboss.xyz:80/Spaha/8153940672/780335
+#EXTINF:-1,PT: Sport TV 6
+http://likea8bitboss.xyz:80/Spaha/8153940672/780336
+#EXTINF:-1,PT: SPORT TV+
+http://likea8bitboss.xyz:80/Spaha/8153940672/780337
+#EXTINF:-1,PT: SPORTING  TV
+http://likea8bitboss.xyz:80/Spaha/8153940672/780338
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HEVC
+http://808574466890779952.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/779952.ts
+#EXTINF:-1,PT: SPORT TV+ SD
+http://808574466890785070.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/785070.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 5 SD
+http://808574466890784141.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/784141.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 6ᶠᴴᴰ FHD
+http://808574466890806570.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/806570.ts
+#EXTINF:-1,ELEVEN SPORTS 1 HD ✠ FHD
+http://808574466890828670.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/828670.ts
+#EXTINF:-1,ELEVEN SPORTS 1 SD ✠ SD
+http://808574466890828671.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/828671.ts
+#EXTINF:-1,ELEVEN SPORTS 1 ✠ HD
+http://808574466890828672.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/828672.ts
+#EXTINF:-1,ELEVEN SPORTS 2 HD ✠ FHD
+http://808574466890828673.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/828673.ts
+#EXTINF:-1,ELEVEN SPORTS 2 SD ✠ SD
+http://808574466890828674.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/828674.ts
+#EXTINF:-1,ELEVEN SPORTS 2 ✠ HD
+http://808574466890828675.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/828675.ts
+#EXTINF:-1,ELEVEN SPORTS 3 ✠ SD
+http://808574466890828678.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/828678.ts
+#EXTINF:-1,ELEVEN SPORTS 4 HD ✠ FHD
+http://808574466890828679.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/828679.ts
+#EXTINF:-1,ELEVEN SPORTS 4 SD ✠ SD
+http://808574466890828680.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/828680.ts
+#EXTINF:-1,ELEVEN SPORTS 5 HD ✠ FHD
+http://808574466890828682.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/828682.ts
+#EXTINF:-1,ELEVEN SPORTS 5 ✠ SD
+http://808574466890828684.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/828684.ts
+#EXTINF:-1,ELEVEN SPORTS 6 HD ✠ FHD
+http://808574466890828685.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/828685.ts
+#EXTINF:-1,ELEVEN SPORTS 6 SD ✠ SD
+http://808574466890828686.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/828686.ts
+#EXTINF:-1,ELEVEN SPORTS 6 SD
+http://808574466890828687.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/828687.ts
+#EXTINF:-1,PT: ELEVEN SPORT 3 FHD
+http://808574466890828929.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/828929.ts
+#EXTINF:-1,PT: SPORT TV + FIBRA FHD
+http://808574466890828934.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/828934.ts
+#EXTINF:-1,PT: SPORT TV 3 FIBRA FHD
+http://808574466890828937.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/828937.ts
+#EXTINF:-1,PT: SPORT TV 4 FIBRA FHD
+http://808574466890828939.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/828939.ts
+#EXTINF:-1,SPORT TV 1 SD ✠ SD
+http://808574466890829035.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/829035.ts
+#EXTINF:-1,SPORT TV 1 SUPER SD ✠ SD
+http://808574466890829036.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/829036.ts
+#EXTINF:-1,SPORT TV 1 ✠ HD
+http://808574466890829037.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/829037.ts
+#EXTINF:-1,SPORT TV 2 HD ✠ FHD
+http://808574466890829038.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/829038.ts
+#EXTINF:-1,SPORT TV 2 ✠ HD
+http://808574466890829040.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/829040.ts
+#EXTINF:-1,SPORT TV 3 HD ✠ FHD
+http://808574466890829041.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/829041.ts
+#EXTINF:-1,SPORT TV 3 ✠ SD
+http://808574466890829043.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/829043.ts
+#EXTINF:-1,SPORT TV 4 HD ✠ FHD
+http://808574466890829044.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/829044.ts
+#EXTINF:-1,SPORT TV 4 ✠ SD
+http://808574466890829046.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/829046.ts
+#EXTINF:-1,SPORT TV 5 HD ✠ FHD
+http://808574466890829047.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/829047.ts
+#EXTINF:-1,SPORT TV 5 SD ✠ SD
+http://808574466890829048.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/829048.ts
+#EXTINF:-1,SPORT TV 5 ✠ SD
+http://808574466890829049.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/829049.ts
+#EXTINF:-1,SPORT TV 6 HD ✠ FHD
+http://808574466890829050.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/829050.ts
+#EXTINF:-1,SPORT TV 6 SD ✠ SD
+http://808574466890829051.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/829051.ts
+#EXTINF:-1,SPORT TV NBA HD ✠ FHD
+http://808574466890829052.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/829052.ts
+#EXTINF:-1,SPORT TV+ HD ✠ FHD
+http://808574466890829053.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/829053.ts
+#EXTINF:-1,SPORTING TV HD ✠ FHD
+http://808574466890829057.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/829057.ts
+#EXTINF:-1,SPORTING TV SD ✠ SD
+http://808574466890829058.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/829058.ts
+#EXTINF:-1,PT: SPORT TV + FHD
+http://808574466890831443.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/831443.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://808574466890833977.ofsd5513.xyz:80/live/Davidsuarez23/JauFC7tmBRr/833977.ts
+#EXTINF:-1,PT: A BOLA TV
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780254
+#EXTINF:-1,PT: BENFICA TV
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780260
+#EXTINF:-1,PT: BENFICA TV(opcao 2)
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780261
+#EXTINF:-1,PT: BENFICA TV(opcao 3)
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780262
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780280
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780281
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780282
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780283
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780284
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780285
+#EXTINF:-1,PT: EUROSPORT
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780286
+#EXTINF:-1,PT: EUROSPORT 2
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780287
+#EXTINF:-1,PT: SPORT TV 1
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780328
+#EXTINF:-1,PT: SPORT TV 1(opcao 2)
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780329
+#EXTINF:-1,PT: SPORT TV 1(opcao 3)
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780330
+#EXTINF:-1,PT: SPORT TV 2
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780331
+#EXTINF:-1,PT: SPORT TV 2(opcao 2)
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780332
+#EXTINF:-1,PT: SPORT TV 3
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780333
+#EXTINF:-1,PT: SPORT TV 4
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780334
+#EXTINF:-1,PT: SPORT TV 5
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780335
+#EXTINF:-1,PT: Sport TV 6
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780336
+#EXTINF:-1,PT: SPORT TV+
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780337
+#EXTINF:-1,PT: SPORTING  TV
+http://likea8bitboss.xyz:80/1Cowboys928/3275648190/780338
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
